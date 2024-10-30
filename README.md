@@ -67,4 +67,8 @@
     3. Create store provider
     4. Implement add to cart button click handler
 
-15. 
+15. Complete Add Too Cart
+    1. check if item exist in the cart
+    2. check count in stock in backend
+
+16. 
